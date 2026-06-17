@@ -13,7 +13,7 @@ A simple Node.js 2FA demo with email OTP and Google Authenticator support.
 ## Requirements
 
 - Node.js 18+ or compatible
-- MongoDB running locally on `mongodb://127.0.0.1:27017/2FA`
+- Mongodb
 
 ## Install
 
